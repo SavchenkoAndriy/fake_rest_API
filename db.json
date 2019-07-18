@@ -72,47 +72,6 @@
         }
       ],
       "id": 3
-    },
-    {
-      "name": "2",
-      "password": "2",
-      "post": [
-        {
-          "id": 0,
-          "title": "Welcome",
-          "text": "Its your first post"
-        }
-      ],
-      "id": 4
-    },
-    {
-      "name": "3",
-      "password": "3",
-      "post": [
-        {
-          "id": 0,
-          "title": "Welcome",
-          "text": "Its your first post"
-        }
-      ],
-      "id": 5
-    },
-    {
-      "name": "",
-      "password": "",
-      "post": [
-        {
-          "title": "sdgfsdg",
-          "text": "fgfdgdf",
-          "id": 0
-        },
-        {
-          "title": "fdgfd",
-          "text": "bnf",
-          "id": 1
-        }
-      ],
-      "id": 6
     }
   ]
 }
