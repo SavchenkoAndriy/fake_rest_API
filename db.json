@@ -1,0 +1,118 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "name": "Andriy",
+      "password": "12345678",
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        },
+        {
+          "id": 1,
+          "title": "first",
+          "text": "Some text for first"
+        },
+        {
+          "id": 2,
+          "title": "two",
+          "text": "Some text for two"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Masha",
+      "password": "qwerty",
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        }
+      ]
+    },
+    {
+      "name": "Admin",
+      "password": "Admin",
+      "id": 2,
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        },
+        {
+          "title": "1",
+          "text": "1",
+          "id": 1
+        },
+        {
+          "title": "3",
+          "text": "3",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "name": "1",
+      "password": "1",
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        },
+        {
+          "id": 1,
+          "title": "1",
+          "text": "1"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "2",
+      "password": "2",
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "3",
+      "password": "3",
+      "post": [
+        {
+          "id": 0,
+          "title": "Welcome",
+          "text": "Its your first post"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "password": "",
+      "post": [
+        {
+          "title": "sdgfsdg",
+          "text": "fgfdgdf",
+          "id": 0
+        },
+        {
+          "title": "fdgfd",
+          "text": "bnf",
+          "id": 1
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
