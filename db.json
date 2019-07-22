@@ -1,14 +1,14 @@
 {
   "first": [
-    'address': 'first',
-    'DishIng': ['Картошка', 'Свекла', 'Лук', 'Грибы', 'Лапша'],
-    'DishList': [
+    "address": "first",
+    "DishIng": ["Картошка", "Свекла", "Лук", "Грибы", "Лапша"],
+    "DishList": [
         {
-            'id': 1,
-            'name': 'borsch',
-            'uaName': 'Борщ',
-            'ingredients': ['Картошка', 'Свекла'],
-            'recipe': [
+            "id": 1,
+            "name": "borsch",
+            "uaName": "Борщ",
+            "ingredients": ["Картошка", "Свекла"],
+            "recipe": [
                 {
                     'id': 1,
                     'name': 'Варим бульон для борща',
