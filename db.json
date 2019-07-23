@@ -1,7 +1,7 @@
 {
   "dish": [
     {
-      "id": 1,
+      "id": "first",
       "address": "first",
       "DishIng": [
         "Картошка",
